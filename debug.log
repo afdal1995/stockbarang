@@ -1,0 +1,22 @@
+Array
+(
+    [0] => Array
+        (
+            [document] => TN2402416
+            [partnumber] => 1300974-AUGER
+            [oem] => 69296
+            [description] => SEAL RING
+            [location] => A01A2
+            [qty] => 5
+        )
+
+)
+Array
+(
+    [document] => TN2402416
+    [partnumber] => 1300974-AUGER
+    [oem] => 69296
+    [description] => SEAL RING
+    [location] => A01A2
+    [qty] => 5
+)
